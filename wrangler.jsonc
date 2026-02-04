@@ -1,5 +1,4 @@
 {
-	"$schema": "https://raw.githubusercontent.com/cloudflare/workers-sdk/main/packages/wrangler/schemas/config.json",
 	"name": "lutra-ui",
 	"compatibility_date": "2026-02-04",
 	"assets": {
